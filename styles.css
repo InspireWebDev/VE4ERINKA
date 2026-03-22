@@ -69,8 +69,8 @@ body {
 
 .slide-1 .ring {
   left: 49%;
-  top: 40%;
-  width: 94%;
+  top: 35%;
+  width: 90%;
   transform-origin: 50% 50%;
 }
 
@@ -79,23 +79,23 @@ body {
   transform: translate(-50%, -44%) scale(0.8);
   animation: ring-spin-cw 11s linear infinite;
   opacity: 0.98;
-  width: 45%;
-  top: 42%;
+  width: 39%;
+  top: 37%;
 }
 
 .slide-1 .ring-2 {
   z-index: 4;
   transform: translate(-50%, -44%) scale(0.93);
   animation: ring-spin-ccw 9s linear infinite;
-  width: 80%;
-  top: 41%;
+  width: 72%;
+  top: 36%;
 }
 
 .slide-1 .leg {
   z-index: 5;
   width: 120%;
-  left: -30%;
-  top: 15%;
+  left: -28%;
+  top: 19%;
   transform-origin: 75% 48%;
   animation: sway-left 3.2s ease-in-out infinite;
 }
@@ -108,9 +108,9 @@ body {
 
 .slide-1 .daniil {
   z-index: 7;
-  width: 80%;
-  right: -15%;
-  bottom: -6%;
+  width: 85%;
+  right: -16%;
+  bottom: -11%;
   transform-origin: 50% 90%;
   animation: sway-right 3.6s ease-in-out infinite;
 }
