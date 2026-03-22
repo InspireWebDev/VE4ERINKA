@@ -91,8 +91,8 @@ body {
 
 .slide-1 .leg {
   z-index: 5;
-  width: 74%;
-  left: -24%;
+  width: 120%;
+  left: -30%;
   top: 23%;
   transform-origin: 75% 48%;
   animation: sway-left 3.2s ease-in-out infinite;
